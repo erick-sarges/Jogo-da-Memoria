@@ -11,8 +11,8 @@ display: flex;
 justify-content: center;
 align-items: center;
 height: 100vh;
+margin-top: 20px;
 background-color: #c7cdd3;
-
 
 }
 
@@ -29,8 +29,8 @@ background-color: #c7cdd3;
 
 .card{
 
-width: 150px;
-height: 150px;
+width: 110px;
+height: 110px;
 position: relative;
 transform-style: preserve-3d;
 transition: transform .5s;
